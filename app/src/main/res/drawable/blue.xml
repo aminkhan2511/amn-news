@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#80FFFFFF" /> <!-- 50% transparent white -->
+        </shape>
+    </item>
+
+    <!-- Semi-transparent overlay (optional for blur effect) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#80FFFFFF" /> <!-- 50% transparent white -->
+            <corners
+                android:topLeftRadius="16dp"
+                android:topRightRadius="16dp"
+                android:bottomLeftRadius="0dp"
+                android:bottomRightRadius="0dp" />
+        </shape>
+    </item>
+</layer-list>

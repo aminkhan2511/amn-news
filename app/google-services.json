@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244006608419",
+    "project_id": "amnnews-bc6cf",
+    "storage_bucket": "amnnews-bc6cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244006608419:android:51a9d467b04cf495291b96",
+        "android_client_info": {
+          "package_name": "com.example.amnnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGcnVFJIj5tN6ucyaA6PFcfjjpHUKoE0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

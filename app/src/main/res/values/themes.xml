@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AmnNews" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/your_primary_color</item>
+        <item name="colorPrimaryDark">@color/your_primary_dark_color</item>
+        <item name="colorAccent">@color/your_accent_color</item>
+        <item name="android:textColorPrimary">@color/your_title_color</item>
+        <item name="actionMenuTextColor">@color/your_menu_text_color</item>
+    </style>
+
+    <style name="Theme.AmnNews" parent="Base.Theme.AmnNews" />
+
+
+</resources>

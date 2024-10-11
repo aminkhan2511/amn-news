@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/home" />
+
+    <item
+        android:id="@+id/exploreFragment"
+        android:title="Discover"
+        android:icon="@drawable/explore" />
+
+    <item
+        android:id="@+id/inShortNewsFragment"
+        android:title="In Short"
+        android:icon="@drawable/news_24dp_5f6368_fill0_wght400_grad0_opsz24" />
+
+    <item
+        android:id="@+id/favoriteFragment"
+        android:title="Favorite"
+        android:icon="@drawable/favorite" />
+
+    <item
+        android:id="@+id/myBottomSheetDialogFragment"
+        android:title="More"
+        android:icon="@drawable/more" />
+</menu>
